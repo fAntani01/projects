@@ -85,7 +85,7 @@ The original head unit manages the parking sensors, and removing it triggers a w
 
 The car has steering-wheel controls, but none of them is for the head unit. A set of **eight backlit buttons** was designed and added to the empty slot on the right side of the steering wheel,, reproducing the look and feel of the originals. They control media playback, Google Gemini and full screen, and their functions can be customized.
 
-The buttons were designed in **Onshape** and printed on a filament (FDM) 3D printer.
+The buttons were designed in **Onshape** ([link to the project](https://cad.onshape.com/documents/21bca0ab7438e5bbc80c772f/w/7ca7d7d28850bf341d09746d/e/d8990ebb0b90bb9cb381468e?renderMode=0&uiState=6b080726f920dc9be455cdf0)) and printed on a filament (FDM) 3D printer.
 
 ### Design Goals
 
